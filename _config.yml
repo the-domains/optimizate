@@ -1,0 +1,14 @@
+layout_spectrum: 0.47468083049170673
+typography_spectrum: 0.5535973773803562
+color:
+  brandStrength: 0.3378735922742635
+  lightness: 0.7700412010308355
+  saturation: 0.8202064796350896
+  rhythmicContrast: 0.5204018584918231
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Optimizate
