@@ -1,9 +1,6 @@
-layout_spectrum: 0.47468083049170673
-typography_spectrum: 0.5535973773803562
 color:
-  brandStrength: 0.3378735922742635
-  lightness: 0.7700412010308355
   saturation: 0.8202064796350896
+  brandStrength: 0.3378735922742635
   rhythmicContrast: 0.5204018584918231
   brandColors:
     - '#225378'
@@ -11,4 +8,19 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+  lightness: 0.7700412010308355
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4746808304917067
+typography_spectrum: 0.5535973773803562
 name: Optimizate
