@@ -1,14 +1,7 @@
-color:
-  saturation: 0.8202064796350896
-  brandStrength: 0.3378735922742635
-  rhythmicContrast: 0.5204018584918231
-  brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  lightness: 0.7700412010308355
+name: Optimizate
+favicon: null
+layout_spectrum: 0.4746808304917067
+typography_spectrum: 0.5535973773803562
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4746808304917067
-typography_spectrum: 0.5535973773803562
-name: Optimizate
+title: Optimizate
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.3378735922742635
+  lightness: 0.7700412010308355
+  saturation: 0.8202064796350896
+  rhythmicContrast: 0.5204018584918231
+purpose: []
