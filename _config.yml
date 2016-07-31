@@ -31,6 +31,9 @@ navigation:
   - name: 'Alimentación Óptima. '
     id: 0c4265cf-5c3b-4a1e-9010-c04e6fcdac59
     type: content
+  - name: 'Café mata-hambre. '
+    id: 97cd0840-90a8-437e-bc3c-439c7fda7e3a
+    type: content
 favicon: null
 collections:
   - index:
