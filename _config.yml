@@ -28,6 +28,9 @@ navigation:
   - name: Ketosis
     id: 031f2295-e6ab-4f0a-8bb0-1d3d622daeaf
     type: content
+  - name: 'Alimentación Óptima. '
+    id: 0c4265cf-5c3b-4a1e-9010-c04e6fcdac59
+    type: content
 favicon: null
 collections:
   - index:
