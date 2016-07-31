@@ -1,7 +1,30 @@
-name: Optimizate
-favicon: null
-layout_spectrum: 0.4746808304917067
 typography_spectrum: 0.5535973773803562
+color:
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.3378735922742635
+  lightness: 0.7700412010308355
+  saturation: 0.8202064796350896
+  rhythmicContrast: 0.5204018584918231
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4746808304917067
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Optimizate
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,28 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Optimizate
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  brandStrength: 0.3378735922742635
-  lightness: 0.7700412010308355
-  saturation: 0.8202064796350896
-  rhythmicContrast: 0.5204018584918231
+title: Elevanna
 purpose: []
