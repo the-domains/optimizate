@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Optimizate
+name: Elevanna
 cta:
   domain: null
   bucket: null
@@ -38,5 +38,5 @@ collections:
       format: rss
       number: 10
 title: Elevanna
-description: Recursos para elevarte
+description: Optimiza tu rendimiento.
 purpose: []
