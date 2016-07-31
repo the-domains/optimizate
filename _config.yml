@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Ketosis
+    id: 031f2295-e6ab-4f0a-8bb0-1d3d622daeaf
+    type: content
 favicon: null
 collections:
   - index:
