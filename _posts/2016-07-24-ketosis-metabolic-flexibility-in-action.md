@@ -25,15 +25,14 @@ description: >-
   for long periods of time.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.ketogenic-diet-resource.com/ketosis.html'
 title: 'Ketosis: Metabolic Flexibility in Action'
-datePublished: '2016-07-24T20:07:06.868Z'
-dateModified: '2016-07-14T20:36:59.751Z'
-starred: false
+datePublished: '2016-07-31T19:39:17.785Z'
+dateModified: '2016-07-31T19:39:17.380Z'
 sourcePath: _posts/2016-07-24-ketosis-metabolic-flexibility-in-action.md
-inFeed: true
-hasPage: false
-inNav: false
+via: {}
+hasPage: true
+starred: false
+url: ketosis-metabolic-flexibility-in-action/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
